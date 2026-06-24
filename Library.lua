@@ -36,7 +36,7 @@ AccentColor = Color3.fromRGB(32,31,31);
 OutlineColor = Color3.fromRGB(23,23,23);
 
     Black = Color3.new(0, 0, 0);
-    Font = Enum.Font.SegoeUI,
+    Font = Enum.Font.Gotham,
 
     OpenedFrames = {};
     DependencyBoxes = {};
