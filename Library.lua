@@ -33,7 +33,7 @@ FontColor = Color3.fromRGB(244, 244, 244);
 MainColor = Color3.fromRGB(19, 17, 17);
 BackgroundColor = Color3.fromRGB(0, 0, 0);
 AccentColor = Color3.fromRGB(32,31,31);
-OutlineColor = Color3.fromRGB(38, 29, 29);
+OutlineColor = Color3.fromRGB(23,23,23);
 
     Black = Color3.new(0, 0, 0);
     Font = Enum.Font.Code,
